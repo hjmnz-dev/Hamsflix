@@ -111,7 +111,7 @@ new \PayPal\Auth\OAuthTokenCredential(
 ### Search
 ![Search](screenshots/search.png)
 
-### Demo
+### Profile
 ![Demo](screenshots/demo.png)
 
 ## Notes
